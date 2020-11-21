@@ -16,6 +16,7 @@ npm audit fix
 
 # Lint the code
 npm run lint
+#salut
 
 # Build the app
 npm run build
